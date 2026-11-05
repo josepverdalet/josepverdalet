@@ -13,3 +13,8 @@ Actualment faig pràctiques com a administrador de xarxes a la Corporació Catal
 El meu objectiu és especialitzar-me en l'àmbit de les xarxes. Soc una persona constant i amb moltes ganes d'aprendre, i m'agrada assumir nous reptes que em permetin créixer professionalment.
  
 ---
+
+## Contacte
+ 
+- 📧 [josepverdalet02@gmail.com](mailto:josepverdalet02@gmail.com)
+- 📍 Blanes, Catalunya
